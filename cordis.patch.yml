@@ -1,0 +1,5 @@
+# dsh-turn-cost —— 挂载声明
+# insert 的 id 是插件在配置树里的唯一标识，name 必须能按包名从 profile 的 node_modules 解析。
+- insert:
+    - id: dsh-turn-cost
+      name: dsh-turn-cost
